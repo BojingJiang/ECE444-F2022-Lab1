@@ -13,3 +13,9 @@ Activity 2
 Activity 3
 
 <img width="910" alt="act3" src="https://user-images.githubusercontent.com/40879743/190836963-8fe0f044-f2e2-4763-88a6-5468e895be89.png">
+
+Activity 4
+
+https://github.com/yixin0829/ECE444-F2022-Lab1.git
+
+<img width="1160" alt="act4" src="https://user-images.githubusercontent.com/40879743/190837108-d6581a11-936f-4097-b459-a3f5abce15ea.png">
