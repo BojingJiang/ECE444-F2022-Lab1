@@ -9,3 +9,7 @@ Activity 1
 Activity 2
 
 <img width="236" alt="act2" src="https://user-images.githubusercontent.com/40879743/190836076-c4a44ca4-f80b-459d-8c87-1f4beadbe94f.png">
+
+Activity 3
+
+<img width="910" alt="act3" src="https://user-images.githubusercontent.com/40879743/190836963-8fe0f044-f2e2-4763-88a6-5468e895be89.png">
