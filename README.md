@@ -19,3 +19,5 @@ Activity 4
 https://github.com/yixin0829/ECE444-F2022-Lab1.git
 
 <img width="1160" alt="act4" src="https://user-images.githubusercontent.com/40879743/190837108-d6581a11-936f-4097-b459-a3f5abce15ea.png">
+
+<img width="1160" alt="act4_part2" src="https://user-images.githubusercontent.com/40879743/190837792-8e1bde1a-a953-4c5d-a2c6-0276bf6d24ef.png">
