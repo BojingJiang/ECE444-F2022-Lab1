@@ -16,8 +16,15 @@ Activity 3
 
 Activity 4
 
+link to my teammate's repo:
 https://github.com/yixin0829/ECE444-F2022-Lab1.git
 
+my commit in my teammate's repo:
 <img width="1160" alt="act4" src="https://user-images.githubusercontent.com/40879743/190837108-d6581a11-936f-4097-b459-a3f5abce15ea.png">
 
+my teammate's commit in my repo:
 <img width="1160" alt="act4_part2" src="https://user-images.githubusercontent.com/40879743/190837792-8e1bde1a-a953-4c5d-a2c6-0276bf6d24ef.png">
+
+Activity 5
+
+<img width="736" alt="act5_output" src="https://user-images.githubusercontent.com/40879743/190932542-abfeb0cc-68f7-438c-a8ca-20e3eb9aa020.png">
