@@ -4,7 +4,8 @@ Bojing Jiang
 
 Activity 1
 
-<img width="1170" alt="act1" src="https://user-images.githubusercontent.com/40879743/190835878-d9cda24b-339f-415f-a310-d57a21fa1658.png">
+<img width="1440" alt="activity_1" src="https://user-images.githubusercontent.com/40879743/190938793-289ccaf3-1c70-4063-9104-2509e2040df2.png">
+
 
 Activity 2
 
@@ -12,7 +13,7 @@ Activity 2
 
 Activity 3
 
-<img width="910" alt="act3" src="https://user-images.githubusercontent.com/40879743/190836963-8fe0f044-f2e2-4763-88a6-5468e895be89.png">
+<img width="1440" alt="activity_3" src="https://user-images.githubusercontent.com/40879743/190938810-3f9d93ba-ffb1-4cb0-923e-eceeafa7d7b0.png">
 
 Activity 4
 
@@ -20,10 +21,12 @@ link to my teammate's repo:
 https://github.com/yixin0829/ECE444-F2022-Lab1.git
 
 my commit in my teammate's repo:
-<img width="1160" alt="act4" src="https://user-images.githubusercontent.com/40879743/190837108-d6581a11-936f-4097-b459-a3f5abce15ea.png">
+<img width="1440" alt="activity_4_part_1" src="https://user-images.githubusercontent.com/40879743/190938826-d20b120e-0456-494e-943e-99fe29369c6d.png">
 
 my teammate's commit in my repo:
-<img width="1160" alt="act4_part2" src="https://user-images.githubusercontent.com/40879743/190837792-8e1bde1a-a953-4c5d-a2c6-0276bf6d24ef.png">
+<img width="1440" alt="activity_4_part_2" src="https://user-images.githubusercontent.com/40879743/190938834-c9662d67-3bc7-4081-84a0-5ec58a989627.png">
+ammate's commit in my repo:
+
 
 Activity 5
 
