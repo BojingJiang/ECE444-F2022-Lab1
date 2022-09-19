@@ -28,3 +28,8 @@ my teammate's commit in my repo:
 Activity 5
 
 <img width="736" alt="act5_output" src="https://user-images.githubusercontent.com/40879743/190932542-abfeb0cc-68f7-438c-a8ca-20e3eb9aa020.png">
+
+Activity 6
+
+link to my EP repo:
+https://github.com/BojingJiang/ECE444-F2022-EP.git
