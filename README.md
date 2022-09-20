@@ -36,3 +36,9 @@ Activity 6
 
 link to my EP repo:
 https://github.com/BojingJiang/ECE444-F2022-EP.git
+
+Activity 7
+
+<img width="485" alt="activity_7_rebase" src="https://user-images.githubusercontent.com/40879743/191151256-9538558a-ae99-4b5a-a6a2-c495534535b6.png">
+
+<img width="1440" alt="activity_7" src="https://user-images.githubusercontent.com/40879743/191151269-4de7fb92-51f5-44ce-bc24-af44fb5259f5.png">
